@@ -1,0 +1,21 @@
+{
+  "name": "api-25wats",
+  "version": "1.0.0",
+  "description": "Api-25wats",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "lint": "eslint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rodrigofierrro@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "cors": "^2.8.5",
+    "d": "^1.0.1",
+    "eslint": "^8.37.0",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
